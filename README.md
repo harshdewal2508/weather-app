@@ -30,9 +30,4 @@ To use this app, you need to have basic knowledge of:
 - HTML, CSS, and JavaScript
 - Access to an API key from a weather service (e.g., OpenWeatherMap API).
 
-### Setup
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
